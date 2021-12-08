@@ -1,2 +1,7 @@
 pandas
 numpy
+wikipedia
+accelerate
+datasets
+torch
+git+https://github.com/huggingface/transformers
