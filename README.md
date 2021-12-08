@@ -125,7 +125,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/windsuzu/question-answering/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/windsuzu/question-answering/blob/master/LICENSE) for more information.
 
 ## Contact
 
@@ -139,7 +139,7 @@ Reach out to the maintainer at one of the following places:
 [issues-shield]: https://img.shields.io/github/issues/windsuzu/question-answering.svg?style=for-the-badge
 [issues-url]: https://github.com/windsuzu/question-answering/issues
 [license-shield]: https://img.shields.io/github/license/windsuzu/question-answering.svg?style=for-the-badge&label=license
-[license-url]: https://github.com/windsuzu/question-answering/blob/main/LICENSE.txt
+[license-url]: https://github.com/windsuzu/question-answering/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/windsuzu
 [pr-welcome-shield]: https://shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge
